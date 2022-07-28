@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="Label.padUnit" value="2,2,2,2" />
+        <val key="Label.padding" value="4.0,4.0,3.0,3.0" />
+        <border key="Task.border" type="underline"  millimeters="false" thickness="2.0" color="10066329" />
+        <val key="Task.padUnit" value="2,2,2,2" />
+        <val key="Task.padding" value="0.0,2.0,0.0,0.0" />
+        <val key="Title.bgColor" value="0" />
+        <val key="Title.fgColor" value="ffffff" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="1" actualSize="12.0" />
+        <val key="Title.transparency" value="0" />
+        <val key="TitleCommand.fgColor" value="ffffff" />
+        <font key="TitleCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="5.0" />
+        <val key="TitleCommand.transparency" value="0" />
+        <border key="ToggleButton.border" type="empty" />
+        <val key="ToggleButton.fgColor" value="cfcfcf" />
+        <border key="ToggleButton.press#border" type="empty" />
+        <val key="ToggleButton.press#fgColor" value="6868fd" />
+        <val key="ToggleButton.sel#fgColor" value="6868fd" />
+        <val key="ToggleButton.transparency" value="0" />
+        <val key="Toolbar.bgImage" value="todo-title.jpg" />
+        <val key="Toolbar.bgType" value="33" />
+        <border key="Toolbar.border" type="empty" />
+        <val key="Toolbar.fgColor" value="fefefe" />
+        <val key="Toolbar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Toolbar.padUnit" value="2,2,2,2" />
+        <val key="Toolbar.padding" value="6.0,3.0,3.0,3.0" />
+        <val key="Toolbar.transparency" value="0" />
+    </theme>
+    <image name="todo-title.jpg"  />
+</resource>
